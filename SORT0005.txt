@@ -1,7 +1,0 @@
-//ALU06XXX  JOB 'PEDROSO',CLASS=C,MSGCLASS=X,NOTIFY=ALU06,TIME=(0,02)   00010000
-//STEP1     EXEC PGM=SORT                                               00020000
-//SYSOUT    DD SYSOUT=*                                                 00030000
-//SORTIN    DD DSN=GR.ALU00.SORTVB,DISP=SHR                             00040000
-//SORTOUT   DD SYSOUT=*                                                 00050000
-//SYSIN     DD *                                                        00060000
-  SORT FIELDS=(5,15,CH,A)                                               00070000
