@@ -17,7 +17,7 @@
   <img align="center" alt="cobol" title="COBOL" height="30" width="40" src="https://hermes.dio.me/articles/cover/8babc6bd-1d28-459c-b5a8-6c510cd101be.png">
   <img align="center" alt="jcl"  title="JCL" height="30" width="40" src="https://www.computerhope.com/jargon/j/jcl.jpg">
   <img align="center" alt="vsam" title="VSAM" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0R2yGFp6DxKLRcJQ-yAibEperJO6-xmsKl6-QQBVC8R9-VPsqb6QZ1G7u7NNpth1EmKE&usqp=CAU"> 
-  <img align="center" alt="ibmdb2" title="IBM DB2" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcP4ENdsUb-yHd7bbZFIUHBTcd2iIkE8GGrw&usqp=CAU">
+  <img align="center" alt="ibmdb2" title="IBM DB2" height="30" width="40" src="https://w7.pngwing.com/pngs/879/229/png-transparent-ibm-db2-logo-ibm-db2-database-computer-software-sql-ibm-text-rectangle-logo-thumbnail.png">
   <img align="center" alt="PostSql" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
  <br> 
 
