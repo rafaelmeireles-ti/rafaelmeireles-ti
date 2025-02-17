@@ -14,7 +14,7 @@
   
 
   
-  <img align="center" alt="cobol" title="COBOL" height="30" width="40" src="https://imagens.tiespecialistas.com.br/2013/08/cobol.jpeg">
+  <img align="center" alt="cobol" title="COBOL" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dio.me%2Farticles%2Fquem-ainda-usa-cobol&psig=AOvVaw27HODeTE-fUAcuteRqbKNu&ust=1739912915003000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjps-fOy4sDFQAAAAAdAAAAABAE">
   <img align="center" alt="jcl"  title="JCL" height="30" width="40" src="https://www.computerhope.com/jargon/j/jcl.jpg">
   <img align="center" alt="vsam" title="VSAM" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0R2yGFp6DxKLRcJQ-yAibEperJO6-xmsKl6-QQBVC8R9-VPsqb6QZ1G7u7NNpth1EmKE&usqp=CAU"> 
   <img align="center" alt="ibmdb2" title="IBM DB2" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcP4ENdsUb-yHd7bbZFIUHBTcd2iIkE8GGrw&usqp=CAU">
